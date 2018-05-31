@@ -6,19 +6,56 @@
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "https://yash994.github.io/heroio/favicon.ico",
+        "https://yash994.github.io/heroio/index.html",
+        "https://yash994.github.io/heroio/main.653c9a5fdea0ecd21205.js",
+        "https://yash994.github.io/heroio/polyfills.fa85de6d70352f5e8c69.js",
+        "https://yash994.github.io/heroio/runtime.a66f828dca56eeb90e02.js",
+        "https://yash994.github.io/heroio/styles.a006ff9ecb31fc360851.css"
+      ],
       "patterns": []
     },
     {
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
-      "urls": [],
+      "urls": [
+        "https://yash994.github.io/heroio/assets/icons/icon-128x128.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-144x144.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-150x150.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-152x152.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-16x16.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-192x192.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-32x32.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-384x384.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-512x512.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-72x72.png",
+        "https://yash994.github.io/heroio/assets/icons/icon-96x96.png"
+      ],
       "patterns": []
     }
   ],
   "dataGroups": [],
-  "hashTable": {},
+  "hashTable": {
+    "https://yash994.github.io/heroio/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://yash994.github.io/heroio/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://yash994.github.io/heroio/assets/icons/icon-150x150.png": "aa0664786a156b657b87399f6dd6ad6c7c97e7fa",
+    "https://yash994.github.io/heroio/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://yash994.github.io/heroio/assets/icons/icon-16x16.png": "cace98c5e68d056d2e154bd10b6a0e1f2f8befa5",
+    "https://yash994.github.io/heroio/assets/icons/icon-192x192.png": "dc2f73d45720e96c3cf2636864ed591a37d2705a",
+    "https://yash994.github.io/heroio/assets/icons/icon-32x32.png": "0e8efbbd2fef8d82bf9f157bfe95818a97fb2f0c",
+    "https://yash994.github.io/heroio/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://yash994.github.io/heroio/assets/icons/icon-512x512.png": "54a9d2031b311e209a6d6a13a37f8d2a3febde88",
+    "https://yash994.github.io/heroio/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://yash994.github.io/heroio/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://yash994.github.io/heroio/favicon.ico": "140476e7e525dbd6f0ce3b6d12f71517b473c7ff",
+    "https://yash994.github.io/heroio/index.html": "b173d2f8a04118bb290f24bfe4306b0b291b2add",
+    "https://yash994.github.io/heroio/main.653c9a5fdea0ecd21205.js": "4e5e960edc1af289e38bec17925ae8ee71a7cf0e",
+    "https://yash994.github.io/heroio/polyfills.fa85de6d70352f5e8c69.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
+    "https://yash994.github.io/heroio/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
+    "https://yash994.github.io/heroio/styles.a006ff9ecb31fc360851.css": "38aec49880516f6f187c4c62dc736f9b4ab107c9"
+  },
   "navigationUrls": [
     {
       "positive": true,
